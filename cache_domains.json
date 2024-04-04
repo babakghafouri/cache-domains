@@ -121,6 +121,13 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+
+
+		},
+		{
+			"name": "asandl",
+			"description": "CDN for asandl",
+			"domain_files": ["asandl.txt"]
 		}
 	]
 }
