@@ -1,2 +1,3 @@
 *.asandownload.ir*
 *.asandl.ir*
+*dl.asandl.ir*
