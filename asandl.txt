@@ -2,3 +2,22 @@
 *.asandl.ir*
 *.dl.asandl.ir*
 *.soft98.ir*
+lc-host-steam lancache-steam
+lc-host-riot lancache-riot
+lc-host-blizzard lancache-blizzard
+lc-host-hirez lancache-hirez
+lc-host-origin lancache-origin
+lc-host-sony lancache-sony
+lc-host-microsoft lancache-microsoft
+lc-host-enmasse lancache-enmasse
+lc-host-gog lancache-gog
+lc-host-arena lancache-arenanetworks
+lc-host-apple lancache-apple
+lc-host-wargaming lancache-wargaming
+lc-host-uplay lancache-uplay
+lc-host-glyph lancache-glyph
+lc-host-zenimax lancache-zenimax
+lc-host-digitalextremes lancache-digitalextremes
+lc-host-pearlabyss lancache-pearlabyss
+lc-host-gaijin lancache-gaijin
+lc-host-epicgames lancache-epicgames
