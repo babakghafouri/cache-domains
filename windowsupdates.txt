@@ -13,3 +13,9 @@ amupdatedl5.microsoft.com
 *.itunes.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+play-apps-features.googleusercontent.com
+play-fe.googleapis.com
+play.googleapis.com
+play-lh.googleusercontent.com
+play.google.com
+*.play.google.com
