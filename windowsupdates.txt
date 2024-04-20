@@ -11,3 +11,5 @@ amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
 *.apple.com
 *.itunes.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
