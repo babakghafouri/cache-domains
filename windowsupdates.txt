@@ -10,3 +10,4 @@ amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
 *.apple.com
+*.itunes.apple.com
