@@ -19,3 +19,4 @@ play.googleapis.com
 play-lh.googleusercontent.com
 play.google.com
 *.play.google.com
+*.aparat.com
