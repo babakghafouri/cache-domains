@@ -1,0 +1,2 @@
+global-balancer-e.mikrotik.com
+upgrade.mikrotik.com
