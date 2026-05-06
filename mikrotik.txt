@@ -1,2 +1,3 @@
 global-balancer-e.mikrotik.com
 upgrade.mikrotik.com
+cloud2.mikrotik.com
