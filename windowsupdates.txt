@@ -31,4 +31,4 @@ stats.microsoft.com
 *.xboxlive.com
 c.s-microsoft.com
 upgrade.mikrotik.com
-*.mikrotik.com
+global-balancer-e.mikrotik.com
