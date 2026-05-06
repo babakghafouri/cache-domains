@@ -20,3 +20,15 @@ play-lh.googleusercontent.com
 play.google.com
 *.play.google.com
 *.aparat.com
+*.delivery.mp.microsoft.com
+download.microsoft.com
+download.windowsupdate.com
+displaycatalog.mp.microsoft.com
+ctldl.windowsupdate.com
+wustat.windows.com
+ntservicepack.microsoft.com
+stats.microsoft.com
+*.xboxlive.com
+c.s-microsoft.com
+upgrade.mikrotik.com
+*.mikrotik.com
