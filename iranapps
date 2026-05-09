@@ -1,0 +1,23 @@
+# --- CafeBazaar (Android Store) ---
+cafebazaar.ir
+*.cafebazaar.ir
+gofasht.ir
+*.gofasht.ir
+pishkhan.com
+*.pishkhan.com
+
+# --- Myket (Android Store) ---
+myket.ir
+*.myket.ir
+mkt.one
+*.mkt.one
+
+# --- Farsroid (Major Android Game Mod) ---
+farsroid.com
+*.farsroid.com
+
+# --- Android / Google Play (HTTP portions) ---
+android.com
+*.android.com
+googleplay.com
+*.googleplay.com
