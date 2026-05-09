@@ -3,7 +3,7 @@ archive.ubuntu.com
 security.ubuntu.com
 releases.ubuntu.com
 changelogs.ubuntu.com
-
+ir.archive.ubuntu.com
 # --- Ubuntu Canonical Partners & Extras ---
 archive.canonical.com
 extras.ubuntu.com
