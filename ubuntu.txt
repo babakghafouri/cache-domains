@@ -7,17 +7,8 @@ changelogs.ubuntu.com
 # --- Ubuntu Canonical Partners & Extras ---
 archive.canonical.com
 extras.ubuntu.com
-
-# --- Common Iran Ubuntu Mirrors (Persian Repos) ---
-ir.archive.ubuntu.com
-mirror.iranserver.com
-ubuntu.hostiran.ir
-mirror.rasanegar.com
-mirror.arvancloud.ir
-
 # --- Python Package Index (PyPI) ---
 pypi.org
 files.pythonhosted.org
-
 # --- Node Package Manager (NPM) ---
 registry.npmjs.org
