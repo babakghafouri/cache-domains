@@ -136,6 +136,16 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "ubuntu",
+      "description": "Ubuntu Repos and Iran Mirrors",
+      "domain_files": ["ubuntu.txt"]
+    },
+    {
+      "name": "iranapps",
+      "description": "CafeBazaar and Myket for Android",
+      "domain_files": ["iranapps.txt"]
     }
   ]
 }
