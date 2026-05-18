@@ -1,1 +1,12 @@
 lancache.steamcontent.com
+# --- Steam Download Domains ONLY (Fixes Login/SSL Issues) ---
+steamcontent.com
+steamcdn-a.akamaihd.net
+content1.steampowered.com
+content2.steampowered.com
+content3.steampowered.com
+content4.steampowered.com
+content5.steampowered.com
+content6.steampowered.com
+content7.steampowered.com
+content8.steampowered.com
