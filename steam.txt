@@ -1,7 +1,14 @@
 lancache.steamcontent.com
-# --- Steam Download Domains ONLY (Fixes Login/SSL Issues) ---
+# --- Lancache Steam Download Domains ONLY ---
+# This list excludes login, community, and static domains to prevent SSL/Loading errors.
+
 steamcontent.com
-steamcdn-a.akamaihd.net
+*.steamcontent.com
+steamusercontent.com
+*.steamusercontent.com
+cloudflare.steamstatic.com
+
+# Only specific download subdomains from the main site
 content1.steampowered.com
 content2.steampowered.com
 content3.steampowered.com
