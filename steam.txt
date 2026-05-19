@@ -1,1 +1,10 @@
 lancache.steamcontent.com
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamstatic.com
+steamcontent.com
+steamloopback.host
+valve software.com
+valvesoftware.com
