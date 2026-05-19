@@ -8,3 +8,4 @@ steamcontent.com
 steamloopback.host
 valve software.com
 valvesoftware.com
+store.steampowered.com
