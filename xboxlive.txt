@@ -5,3 +5,8 @@ d1.xboxlive.com
 xbox-mbr.xboxlive.com
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
+xbox.com
+xboxlive.com
+xboxone.com
+live.com
+live.ne
