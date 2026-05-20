@@ -1,4 +1,3 @@
-lancache.steamcontent.com
 steampowered.com
 steamcommunity.com
 steamgames.com
@@ -6,6 +5,15 @@ steamusercontent.com
 steamstatic.com
 steamcontent.com
 steamloopback.host
-valve software.com
 valvesoftware.com
-store.steampowered.com
+valve.com
+steamchina.com
+steam-chat.com
+steamdeck.com
+underlords.com
+artifactthegame.com
+dota2.com
+counter-strike.net
+csgo.com
+teamfortress.com
+half-life.com
