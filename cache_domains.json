@@ -146,6 +146,11 @@
       "name": "iranapps",
       "description": "CafeBazaar and Myket for Android",
       "domain_files": ["iranapps.txt"]
+    },
+    {
+      "name": "antivirus",
+      "description": "CDN for Antivirus Updates (ESET, Kaspersky, Defender, Padoish)",
+      "domain_files": ["antivirus.txt"]
     }
   ]
 }
