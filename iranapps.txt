@@ -1,0 +1,15 @@
+# Iranian app stores: candidate hostnames; review HTTPS/API before DNS redirection
+cafebazaar.ir
+*.cafebazaar.ir
+gofasht.ir
+*.gofasht.ir
+pishkhan.com
+*.pishkhan.com
+myket.ir
+*.myket.ir
+mkt.one
+*.mkt.one
+farsroid.com
+*.farsroid.com
+# Intentionally excluded: android.com, googleplay.com and their wildcards.
+# They are broad service/API domains, not verified cache-download endpoints.
