@@ -35,7 +35,7 @@ while read -r entry; do
 	if [ -z "${!cachename}" ]; then
 		cachename="cachenamedefault"
 	fi
-	if [[ ${cachename} == "disabled" ]]; then
+	if [[ ${!cachename} == "disabled" ]]; then
 		continue
 	fi
 	cacheipname="cacheip${!cachename}"
