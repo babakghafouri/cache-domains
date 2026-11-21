@@ -1,1 +1,2 @@
 lancache.steamcontent.com
+alibaba.cdn.steampipe.steamcontent.com
